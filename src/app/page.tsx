@@ -1,10 +1,12 @@
 "use client";
 
+"use client";
+
+import React from "react";
+import { MdChevronLeft, MdChevronRight } from "react-icons/md";
 import IconButton from "@/components/buttons/IconButton";
 import NextImage from "@/components/NextImage";
 import Typography from "@/components/Typography";
-import React from "react";
-import { MdChevronLeft, MdChevronRight } from "react-icons/md";
 
 export default function Home() {
   return (
